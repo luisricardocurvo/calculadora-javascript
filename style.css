@@ -1,0 +1,46 @@
+body{
+    background-color: rgba(228, 19, 19, 0.712);
+
+}
+.title{
+
+    text-align: center;
+}
+.calculadora{
+ position: absolute;
+ 
+ background-color: #7c16b3;
+ top: 150px;
+ left: 569px;
+ transform: translate(-50px,-50px);
+
+
+
+}
+
+button{
+
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    cursor: pointer;
+    margin: 1px;
+
+   } 
+.operadores{
+    width: 50px;
+    height: 50p;
+
+    left: 100px;
+  
+    margin-left: 20px;
+     
+}
+
+#resultado{
+    background-color: beige;
+    width: 281px;
+    height: 30px;
+    margin: 4px;
+    padding: 1px 6px
+}
